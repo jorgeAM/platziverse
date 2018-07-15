@@ -1,0 +1,20 @@
+{
+  "name": "platziverse-db",
+  "version": "1.0.0",
+  "description": "A Simple IoT Platform - API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https//github.com/jorgeAM/platziverse"
+  },
+  "author": "Jorge L. Alfaro",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^7.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.38.0"
+  }
+}
